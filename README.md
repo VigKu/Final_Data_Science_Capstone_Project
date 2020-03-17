@@ -1,2 +1,2 @@
 # Final_Data_Science_Capstone_Project
-IBM Data Science Coursera Capstone Project: To identify the top cluster and bottom cluster with neighborhoods in London based on the number of amenities (markets and pharmacies) in the times of COVID-19 outbreak.
+IBM Data Science Coursera Capstone Project: To identify and explore the similarities and differences in food availability and medical needs among the neighborhoods in Enfield, London based on the number of amenities (markets, pharmacies and etc.) in the times of COVID-19 outbreak.
